@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdecrypt",
+        "uuid": 653268,
+        "checksum": "ecfu2j"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
